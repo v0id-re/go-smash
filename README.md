@@ -24,9 +24,9 @@ optional arguments:
 python go-smash.py -k main github runtime -b ezCM.exe -o ezCM_smashed.exe -n
 ```
 混淆前：  
-![](./pic/before.png)  
+![](https://github.com/v0id-re/go-smash/blob/main/pic/before.png)  
 
 混淆后：  
-![](./pic/after.png)
+![](https://github.com/v0id-re/go-smash/blob/main/pic/after.png)
 
 
