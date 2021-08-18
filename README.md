@@ -29,4 +29,10 @@ python go-smash.py -k main github runtime -b ezCM.exe -o ezCM_smashed.exe -n
 混淆后：  
 ![](https://github.com/v0id-re/go-smash/blob/main/pic/after.png)
 
+## Reference  
+https://github.com/sibears/IDAGolangHelper
 
+## Requirements  
+```console
+pip install lief
+```
